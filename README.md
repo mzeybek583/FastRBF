@@ -1,2 +1,2 @@
 # FastRBF
-Radial basis function interpolation on dense point cloud for generation of terrain surface
+Radial basis function interpolation for dense point cloud for generation of terrain surface
